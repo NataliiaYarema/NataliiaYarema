@@ -19,16 +19,24 @@ Always curious. Always improving.
 
 ### 🛠️ My Tech Stack
 
+#### Data Analytics & BI
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-42B029?style=flat&logo=anaconda&logoColor=white)
+
+#### Data Visualization & Reporting
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-F57C00?style=flat&logo=googleanalytics&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+
+#### Marketing Analytics & CRM
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-F57C00?style=flat&logo=googleanalytics&logoColor=white)
 ![ActiveCampaign](https://img.shields.io/badge/-ActiveCampaign-356AE6?style=flat&logo=activecampaign&logoColor=white)
+![Pipedrive](https://img.shields.io/badge/-Pipedrive-0A2540?style=flat&logo=pipedrive&logoColor=white)
+
+#### AI & Automation
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
 ![Make](https://img.shields.io/badge/-Make-6C63FF?style=flat&logo=integromat&logoColor=white)
