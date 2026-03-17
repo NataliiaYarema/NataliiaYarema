@@ -33,6 +33,10 @@ Always curious. Always improving.
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
 ![Make](https://img.shields.io/badge/-Make-6C63FF?style=flat&logo=integromat&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![API](https://img.shields.io/badge/-API%20Integration-6E6E6E?style=flat)
+![Webhooks](https://img.shields.io/badge/-Webhooks-000000?style=flat)
+![Automation](https://img.shields.io/badge/-Workflow%20Automation-2E8B57?style=flat)
 
 ### Connect with Me
 
@@ -40,11 +44,6 @@ Always curious. Always improving.
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a><a href="http://t.me/Nataliya_Yarema" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"  alt="telegram logo" style="margin-bottom: 5px;"  />
   </a>
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![API](https://img.shields.io/badge/-API%20Integration-6E6E6E?style=flat)
-![Webhooks](https://img.shields.io/badge/-Webhooks-000000?style=flat)
-![Automation](https://img.shields.io/badge/-Workflow%20Automation-2E8B57?style=flat)
-
 
 
 
