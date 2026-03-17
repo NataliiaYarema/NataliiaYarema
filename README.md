@@ -3,7 +3,11 @@
 ### About me
 
 I'm a highly motivated and fast-learning Data Analyst with a passion for turning data into actionable insights. With strong communication skills and a proactive mindset, I work independently and thrive in collaborative, results-driven environments.
-I’m committed to continuous learning and professional development, constantly expanding my skills in SQL, Python, Google Analytics, Tableau, Power BI and Looker Studio. I enjoy simplifying complex data stories for non-technical stakeholders and helping teams make informed, data-backed decisions.
+
+I’m also experienced in AI integration and workflow automation, leveraging tools such as LLMs, APIs, and no-code platforms to optimize business and marketing processes. I design and implement automated solutions for data processing, lead generation, and customer communication.
+
+I’m committed to continuous learning and professional development, constantly expanding my skills in SQL, Python, Google Analytics, Tableau, Power BI, and Looker Studio, as well as AI-driven tools and automation platforms. I enjoy simplifying complex data stories for non-technical stakeholders and helping teams make informed, data-backed decisions.
+
 Always curious. Always improving.
 
 ### Connect with Me
@@ -24,6 +28,14 @@ Always curious. Always improving.
 ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-F57C00?style=flat&logo=googleanalytics&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+![ActiveCampaign](https://img.shields.io/badge/-ActiveCampaign-356AE6?style=flat&logo=activecampaign&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/-Make-6C63FF?style=flat&logo=integromat&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![API](https://img.shields.io/badge/-API%20Integration-6E6E6E?style=flat)
+![Webhooks](https://img.shields.io/badge/-Webhooks-000000?style=flat)
+![Automation](https://img.shields.io/badge/-Workflow%20Automation-2E8B57?style=flat)
 
 
 
