@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Nataliia, I am Data, CRM & Marketing Automation Analyst
+## Hi there 👋 My name is Nataliia, I am Data Analyst, CRM & Marketing Automation Specialist
 
 ### About me
 
